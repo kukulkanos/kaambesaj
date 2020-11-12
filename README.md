@@ -1,9 +1,10 @@
 # kaambesaj
-El Maestro de Kukulkan OS
+## El Maestro de Kukulkan OS
 
 # Basado en Mozzarella Ashbadger
 Este proyecto lo encontré leyendo el libro que vende el autor de los tutoriales de PyQT.
 El material está en Inglés.
+Lo transformamos para que sea un navegador HTML que descargará vía GIT las últimas versiones de los tutoriales y ambientes de laboratorio.
 
 Mozarella Ashbadger is the latest revolution in web 
 browsing! Go back and forward! Print! Save files! Get help! 
