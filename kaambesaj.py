@@ -125,7 +125,7 @@ class MainWindow(QMainWindow):
         
         #Menú Entrenamiento nivel básico
         beginner_menu = self.menuBar().addMenu("Principiante")
-        navigate_action = QAction(QIcon(os.path.join('images', 'lifebuoy.png')), "Bienbenida y Preguntas frecuentes", self)
+        navigate_action = QAction(QIcon(os.path.join('images', 'lifebuoy.png')), "Bienvenida y Preguntas frecuentes", self)
         navigate_action.setStatusTip("Kukulkan OS, Zona de entrenamiento")
         navigate_action.triggered.connect(self.navigate)
         #navigate_action.triggered.connect(self.navigate_mozarella)
